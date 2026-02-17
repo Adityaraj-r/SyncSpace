@@ -43,10 +43,7 @@ npm run dev
 
 ⚡ Realtime     → Stream API
 
-🧠 State Mgmt   → Zustand
-
 🔁 Data Fetch   → TanStack Query (React Query)
 
 🔐 Auth         → JWT (JSON Web Tokens)
 
-☁️ Deployment   → Render
